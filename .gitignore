@@ -4,3 +4,5 @@
 /weights/yolov3.weights
 /weights/yolov3-tiny.weights
 /data/custom/
+
+/.idea/
